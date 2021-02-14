@@ -66,6 +66,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "TourmalineCore.AspNetCore.JwtAuthentication.Core": {
+              "target": "Package",
+              "version": "[0.1.1, )"
             }
           },
           "imports": [

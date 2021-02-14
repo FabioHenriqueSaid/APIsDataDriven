@@ -1,4 +1,4 @@
-namespace Backoffice
+namespace Api
 {
     public static class Settings
     {
